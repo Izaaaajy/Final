@@ -438,7 +438,7 @@ h3 {
 .icon-dog img {
     position: absolute;
     width: 15%;
-    top: 212%;
+    top: 215%;
     left: 36%
 }
 
@@ -446,7 +446,7 @@ h3 {
     position: absolute;
     left: 1%;
     top: 228%;
-    color: white;
+    color: black;
     font-size: 20px;
 }
 
@@ -454,7 +454,7 @@ h3 {
     position: absolute;
     left: 14%;
     top: 226%;
-    color: white;
+    color: black;
     font-size: 12px;
 }
 
@@ -462,7 +462,7 @@ h3 {
     position: absolute;
     left: 1%;
     top: 228%;
-    color: white;
+    color: black;
     font-size: 20px;
 }
 
@@ -470,7 +470,7 @@ h3 {
     position: absolute;
     left: 12%;
     top: 226%;
-    color: white;
+    color: black;
     font-size: 12px;
 }
 
@@ -478,7 +478,7 @@ h3 {
     position: absolute;
     right: 25%;
     top: 228%;
-    color: white;
+    color: black;
     font-size: 20px; 
 }
 
@@ -486,7 +486,7 @@ h3 {
     position: absolute;
     right: 3%;
     top: 224%;
-    color: white;
+    color: black;
     font-size: 12px;
 }
 
@@ -494,7 +494,7 @@ h3 {
     position: absolute;
     right: 25%;
     top: 228%;
-    color: white;
+    color: black;
     font-size: 20px; 
 }
 
@@ -502,7 +502,7 @@ h3 {
     position: absolute;
     right: 3%;
     top: 224%;
-    color: white;
+    color: black;
     font-size: 12px;
 }
 
@@ -631,7 +631,7 @@ h3 {
 .icon-dog img {
      position: absolute;
     width: 15%;
-    top: 212%;
+    top: 215%;
     left: 35%
 }
 
