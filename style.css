@@ -434,7 +434,7 @@ h3 {
     transition: .4s;
     color: #000;
 }
-
+/*
 .icon-dog img {
     position: absolute;
     width: 15%;
@@ -505,7 +505,7 @@ h3 {
     color: white;
     font-size: 12px;
 }
-
+*/
 
 .res-phoebe img {
     position: absolute;
@@ -628,12 +628,14 @@ h3 {
     color: #000;
 }
 
+/*
 .icon-dog img {
      position: absolute;
     width: 15%;
     top: 212%;
     left: 35%
 }
+*/
 
 .res-sam img {
     position: absolute;
@@ -715,6 +717,7 @@ h3 {
 	background-color: honeydew;
 }
 
+/*
 .republic {
     position: absolute;
     left: 1%;
@@ -738,6 +741,7 @@ h3 {
     color: white;
     font-size: 20px; 
 }
+*/
 
 .abt-logo img {
     position: absolute;
